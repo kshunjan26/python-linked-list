@@ -1,4 +1,6 @@
 class LinkedList():
+    """linked list implementation in python"""
+
     def __init__(self):
         self.headerNode = None
         self.endNode = None
